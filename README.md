@@ -27,12 +27,13 @@ The Dilution Calculator has both forward and reverse modes designed to streamlin
 ![image](https://github.com/user-attachments/assets/a0cdbdae-ec36-4fb2-b01e-f658fe5f895a)
 
 In reverse mode, the tool is designed to be smart: it automatically recommends the best combination of stocks to create the desired concentrations, avoiding pipetting volumes under 1 µL to maintain accuracy. 
-
- ![image](https://github.com/user-attachments/assets/ccac1cfc-46a7-48b2-b31c-4b38606781db)
-
+![image](https://github.com/user-attachments/assets/fb0dddee-a930-4446-a5b2-478bc29a34e1)
 
 Molecular Weight Calculator
 -
 The Molecular Weight Calculator is designed to help with compound characterisation and solution preparation. You can name the compound (customised for each user or experiment) and input the molecular formula in any format—as long as the elements are capitalised correctly, the calculator recognises and calculates the molecular weight and displays the elemental composition in a table format. This flexibility saves time and reduces errors for users unfamiliar with complex formulas. For instance, inputting “C6H12O6” yields the molecular weight and a breakdown of each element’s contribution, an ideal reference for creating stoichiometric calculations or solution recipes.
-![image](https://github.com/user-attachments/assets/aceab092-e647-49e9-b4ae-d52302d657b9)
+
+
+![image](https://github.com/user-attachments/assets/fd4f3caf-cbf1-4af2-94dc-fcd95bd1a549)
+
 
